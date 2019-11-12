@@ -3,6 +3,7 @@ import telepot
 from bs4 import BeautifulSoup
 from datetime import datetime
 
+now = datetime.now()
 token = "1042804802:AAG4SbkWhnOyvor8l6SDFgZ8bae1fqljfq4"
 bot = telepot.Bot(token)
 my_id = "906326133"
