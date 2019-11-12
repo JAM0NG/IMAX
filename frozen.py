@@ -1,3 +1,5 @@
+#-*-coding:utf-8-*-
+
 import requests
 import telepot
 from bs4 import BeautifulSoup
